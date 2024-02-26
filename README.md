@@ -2,9 +2,9 @@
 
 #### Welcome to my GitHub Profile!
 
-🌱 I’m currently learning about Machine Learning/Deep Learning, Kubernetes, and Airflow.
-🔭 I’m currently working on my ChatBotApp and SafeguardNavigator project.
-📫 How to reach me: https://www.linkedin.com/in/chrismartinn/
+🌱 I’m currently learning about Machine Learning/Deep Learning, Kubernetes, and Airflow. <br>
+🔭 I’m currently working on my ChatBotApp and SafeguardNavigator project. <br>
+📫 How to reach me: https://www.linkedin.com/in/chrismartinn/ <br>
 
 
 <!--
