@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Chris!👋
+
+#### Welcome to my GitHub Profile!
+
+🌱 I’m currently learning about Machine Learning/Deep Learning, Kubernetes, and Airflow.
+🔭 I’m currently working on my ChatBotApp and SafeguardNavigator project.
+📫 How to reach me: https://www.linkedin.com/in/chrismartinn/
+
 
 <!--
 **mart1428/mart1428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
